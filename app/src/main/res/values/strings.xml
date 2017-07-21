@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PressListToView</string>
+    <string name="hi">Hi :)!</string>
+    <string name="go_away">Go Away</string>
+    <string name="stay_there">Stay There</string>
+    <string name="don_t_come_back">Don\'t Come Back</string>
+</resources>
